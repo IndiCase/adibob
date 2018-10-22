@@ -1,16 +1,18 @@
 ---
 title: Google Glass Finally Marks The Enterprise 
-date: 2018-2-2 09:43:00
+date: 2018-9-12 09:43:00
 category: Highlight
 ---
 
-![Ai](https://adibob.com/content/images/2.jpg)
+![](/images/2.jpg)
 
-Google Glass product finally finds a make use of case in the enterprise
+## Google Glass product finally finds a make use of case in the enterprise
 
 Understand the situation first, then invent the technology -- unless you're Google and the technology is its Google Glass device. Also: KRACK assault, AlphaGo Zero, IoT reliability strategies increasing.
 
 At the recent Business Wearable Technology Summit in Boston, Mass., speaker after speaker emphasized a very important factor most importantly: Technology can be for naught in the event that you aren't solving a specific business problem.
+
+<!-- more -->
 
 "Ensure that you first understand what the situation truly is, then develop the very best organization practice for how to address that difficulty," said Brian Laughlin, IT architect of cellular devices and professional aviation services in Boeing, at the event. "Then and only in that case can you apply the correct technology."
 
@@ -24,7 +26,8 @@ That didn't happen, Kothari said. Since Google didn't really really know what pr
 
 "The Explorer program was an experiment for all of us to take Cup, put it available in the market as a piece of technology and ask 'what would you conduct with this technology?' 'What is this finally valuable for?'" Kothari said. But the quest struck a dead end. "We got such a broad group of answers" -- none of which pointed to a work with circumstance that justified the device's living in the buyer market.
 
-A new chapter for the Google Glass project
+## A new chapter for the Google Glass project
+
 But at Google, generally there are no failures, simply course corrections.
 
 If the buyer space was a bust, then why not take this phenomenal solution for a issue that no person besides Google engineers seemingly wished to solve and try it out on ... the enterprise. Eureka.
@@ -39,7 +42,8 @@ The team also took a diverse approach to selling this technology. Kothari stated
 
 A revamped Google Cup device -- with an increase of power and better electric battery lifestyle -- has improved GE's mechanics' efficiency by around 8% and 12%. Package deal sorters at DHL possess increased their proficiency by 15% by getting information projected to their type of sight via Glass, freeing up their hands. Doctors at Dignity Wellbeing have reduced the time they spend typing up individual notes and various other administrative work by 33% by using Cup, Kothari touted, adding that Cup has identified its groove and can be moving full-steam ahead.
 
-The 'Glasshole' effect 
+## The 'Glasshole' effect 
+
 What's the lesson the Google Cup project team discovered from its wearable voyage? It circles back to the need to solve a particular problem for the end user, explained Melvin Chua, an executive in business development at Glass.
 
 "With any kind of new technology, to get adoption and roll out of development you absolutely need the ROI," Chua said during the keynote.
@@ -58,7 +62,8 @@ In the consumer pilot, for example, Glass wearers were dubbed "Glassholes" by a 
 
 "We spend lots of time grappling with the public impacts of putting a laptop and a camera on somebody's deal with," Kothari said.
 
-CIO reports roundup for week of Oct. 16
+## CIO reports roundup for week of Oct 16th
+
 The Google Glass device's journey to the enterprise wasn't the only interesting tech news this week. Some tips about what else made headlines:
 
 IoT-specific security strategies on the rise. The Global Condition of Information Security Study 2018 executed by auditing firm PwC determined organizations are implementing plans and technologies to handle IoT-related dangers. Sixty-seven percent of the respondents said they have an IoT security strategy set up or are implementing one. The survey drew on responses from 9,500 executives in a lot more than 75 sectors worldwide, and found 29% of respondents believe CISOs should bear responsibility for IoT reliability. Business leaders are as well aware of the risks linked with emerging technologies, the study discovered. Forty percent of respondents from agencies using automation or robotics explained operations disruption would come to be the main consequence of a cyberattack on those devices, followed by reduction or compromise of sensitive info (39%) and harm to quality of goods produced (32%).

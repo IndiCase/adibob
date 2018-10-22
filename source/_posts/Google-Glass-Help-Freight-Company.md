@@ -1,22 +1,25 @@
 ---
 title: Google Glass Help Freight Company
-date: 2018-2-7 16:00:00
-category: Future With Google Glass
+date: 2018-9-07 16:00:00
+category: The Future
 ---
 
-![Ai](https://adibob.com/content/images/7.jpg)
+![](/images/7.jpg)
 
-Wearable smart glasses help freight company think outside the box
+## Wearable smart glasses help freight company think outside the box
 
 Wearables get new footing in industries that need to keep hands free. One company explains how Intel's Recon Jet Pro smart spectacles have improved its efficiency.
 
 Time is money, and time wasted is money shed. So, when productivity stalled in a freight-forwarding company's warehouse, it turned to wearable smart glasses.
 
+<!-- more -->
+
 Workers in DB Schenker found in Houston needed to streamline the time-consuming functions of monitoring inventory and communicating with each other on the large warehouse floor. In April, the company presented Intel's Recon Jet Pro intelligent glasses, which allow staff members to work hands-no cost and keep inventory up-to-date.
 
 "The glasses are simple to work with and easy to learn," said John Pappas, IT project manager at DB Schenker. "Rather than having to quit and flag a supervisor down, you can only send a message."
 
-Wearable sensible glasses help turn a corner
+## Wearable sensible glasses help turn a corner
+
 The Recon Jet Pro smart glasses have a camera below the right eye, so as never to disrupt the worker's view. The camcorder enables the worker to stream live training video for support purposes -- like a step-by-step walk-through how to fix something -- or even to provide details on an exact item the worker is seeking at. Additionally it is with the capacity of scanning bar codes and documenting procedures.
 
 Whenever a DB Schenker customer spots an order, an employee can scan the inventory using the good glasses to ensure the item is physically available. If it's certainly not, an alert kicks back again to another worker to restock that, so no time is definitely wasted on to the floor.
@@ -37,7 +40,8 @@ DB Schenker has struggled to take benefit of the entire functionality of the sof
 
 Another challenge could it be project managers must train employees on how to utilize the wearable smart spectacles, and employees were in the beginning hesitant to try them at all, he added.
 
-Wearable glasses jet into the future
+## Wearable glasses jet into the future
+
 Intel's Recon Jet Pro spectacles are built for task roles such as for example construction, maintenance and emergency responders. The computer is attached to the outer part of the glasses, as may be the battery, that may detach to fee and lasts between two and five time per use. The glass lenses happen to be interchangeable for interior and outdoor use.
 
 Industrial personnel could access this kind of computing technology using tablets or computers, but wearable glasses are safer for staff in conditions that contain more hazards, stated Christopher Croteau, general manager of wearables at Intel.
