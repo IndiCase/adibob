@@ -1,7 +1,7 @@
 ---
 title: Google Glass Finally Marks The Enterprise 
 date: 2018-9-12 09:43:00
-category: Highlight
+category: highlight in 2018
 ---
 
 ![](/images/2.jpg)
