@@ -1,7 +1,7 @@
 ---
 title: Google Glass Innovative Uses In Education
 date: 2018-8-24 11:41:00
-category: Learning
+category: education
 ---
 
 ![](/images/4.jpg)
