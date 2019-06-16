@@ -1,7 +1,7 @@
 ---
 title: How Google Glass Evolve
 date: 2018-8-17 08:00:00
-category: Today Facts
+category: futuristic
 ---
 
 ![](/images/1.jpg)
