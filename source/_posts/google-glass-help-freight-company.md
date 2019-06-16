@@ -1,7 +1,7 @@
 ---
 title: Google Glass Help Freight Company
 date: 2018-9-07 16:00:00
-category: The Future
+category: info plus
 ---
 
 ![](/images/7.jpg)
