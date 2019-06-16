@@ -1,7 +1,7 @@
 ---
 title: Advantages & Disadvantages of Google Glasses
 date: 2018-10-21 10:29:00
-category: Highlight
+category: highlight in 2018
 ---
 
 ![](/images/3.jpg)
