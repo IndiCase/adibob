@@ -12,6 +12,8 @@ But for CNC machinists who are concerned about losing their jobs, here is an opi
 
 In terms of accuracy, CNC machining is superior to all 3D printing processes. Though some 3D printers promise high precision, they easily fail to deliver it from time to time. Due to the technical process of 3D printing, internal stress can be produced during the object solidification and causes the deformation. 3D printers lack the precision which is needed for mission-critical cases. Even with Selective Laser Melting (SLM) technology, the accuracy of CNC machines is hard, if not impossible, to be replicated by 3D printing.
 
+<!-- more -->
+
 #### Speed
 
 Generally, 3D printing uses a slow process to heat the material into liquid, create layers of material, and then form the desired product, so even at the best speed, 3D printers cannot catch up with CNC machining. CNC machines can directly finish a task while the output from 3D printers usually requires separate steps, which makes the 3D printing process less efficient than the CNC process. A project that could take CNC machining less than an hour would take a 3D printer hours to get the task done.
