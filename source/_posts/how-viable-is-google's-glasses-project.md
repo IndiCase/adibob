@@ -1,7 +1,7 @@
 ---
 title: How Viable is Google's Glasses Project
 date: 2018-8-06 15:12:00
-category: Moreover About Google Glass
+category: industry project
 ---
 
 ![](/images/6.jpg)
