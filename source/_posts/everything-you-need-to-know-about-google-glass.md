@@ -1,7 +1,7 @@
 ---
 title: Everything You Need To Know About Google Glass
 date: 2018-10-15 14:54:00
-category: Moreover About Google Glass
+category: info plus
 ---
 
 ![](/images/5.jpg)
