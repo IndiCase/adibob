@@ -6,6 +6,8 @@ category: industry project
 
 CNC machining is a manufacturing process where computer software controls the movement of tools and machinery. For decades, it has been a stable manufacturing process and has become one of the main manufacturing methods for precision manufacturing. But in recent years, CNC machining has been challenged by rapidly developing technology: 3D printing, which is an additive manufacturing process that builds the desired part up layer by layer. 
 
+![](images/9.jpg)
+
 But for CNC machinists who are concerned about losing their jobs, here is an opinion that might cheer you up: 3D printing is unlikely to replace CNC Machining, at least in the near future.
 
 #### Accuracy
