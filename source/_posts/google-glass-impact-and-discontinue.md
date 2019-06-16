@@ -1,7 +1,7 @@
 ---
 title: Google Glass Impact and Discontinue
 date: 2018-10-08 17:39:00
-category: Today Facts
+category: info plus
 ---
 
 ![](/images/8.jpg)
